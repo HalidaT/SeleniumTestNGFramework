@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-24T21:55:56 HST" name="Default suite" finished-at="2022-01-24T21:56:27 HST" duration-ms="30759">
+    <groups>
+    </groups>
+    <test started-at="2022-01-24T21:55:56 HST" name="Default test" finished-at="2022-01-24T21:56:27 HST" duration-ms="30759">
+      <class name="Tests.SauceDemoLoginTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.SauceDemoLoginTest@7e0b85f9]" started-at="2022-01-24T21:55:56 HST" name="beforeMethod" finished-at="2022-01-24T21:55:58 HST" duration-ms="2271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="inventoryTest()[pri:0, instance:Tests.SauceDemoLoginTest@7e0b85f9]" started-at="2022-01-24T21:55:58 HST" name="inventoryTest" finished-at="2022-01-24T21:56:11 HST" duration-ms="12856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inventoryTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.SauceDemoLoginTest@7e0b85f9]" started-at="2022-01-24T21:56:11 HST" name="afterMethod" finished-at="2022-01-24T21:56:12 HST" duration-ms="1115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.SauceDemoLoginTest@7e0b85f9]" started-at="2022-01-24T21:56:12 HST" name="beforeMethod" finished-at="2022-01-24T21:56:13 HST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginPageTest()[pri:0, instance:Tests.SauceDemoLoginTest@7e0b85f9]" started-at="2022-01-24T21:56:13 HST" name="loginPageTest" finished-at="2022-01-24T21:56:25 HST" duration-ms="12660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.SauceDemoLoginTest@7e0b85f9]" started-at="2022-01-24T21:56:25 HST" name="afterMethod" finished-at="2022-01-24T21:56:27 HST" duration-ms="1105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Tests.SauceDemoLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
